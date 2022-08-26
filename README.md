@@ -26,18 +26,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
+Here's a walkthrough of the Tip Calculator
 
 https://imgur.com/a/aj90ixi
 
-
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+I encountered a few challenges when creating this app. I never really used Xcode before. Learning the interface itself took some time and I made the mistake of not choosing a simulation platform before running the code. This caused an error but I fixed it by choosing to simulate with an Iphone 13 Pro.
 
 ## License
 
