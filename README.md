@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-/Users/mendoza/Downloads/Prework.gif
+https://imgur.com/a/aj90ixi
 
 
 
